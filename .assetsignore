@@ -4,3 +4,4 @@ README.md
 wrangler.jsonc
 .assetsignore
 .DS_Store
+.wrangler

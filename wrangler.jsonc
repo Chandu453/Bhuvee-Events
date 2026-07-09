@@ -3,6 +3,10 @@
   // The name must match the existing Worker (bhuveeevents.aged-limit-0f2b.workers.dev).
   "name": "bhuveeevents",
   "compatibility_date": "2026-07-01",
+  "routes": [
+    { "pattern": "bhuveeevents.com", "custom_domain": true },
+    { "pattern": "www.bhuveeevents.com", "custom_domain": true }
+  ],
   "assets": {
     "directory": "./"
   }
