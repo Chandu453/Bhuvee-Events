@@ -1,0 +1,9 @@
+{
+  // Cloudflare Worker config: serves this repo as a static site.
+  // The name must match the existing Worker (bhuveeevents.aged-limit-0f2b.workers.dev).
+  "name": "bhuveeevents",
+  "compatibility_date": "2026-07-01",
+  "assets": {
+    "directory": "./"
+  }
+}
